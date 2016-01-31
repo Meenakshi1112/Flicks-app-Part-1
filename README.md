@@ -27,8 +27,8 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1. 
-2. 
+1. I had problems understanding some of the code snippets provided to us, like the Network Request etc, so I would just like to discuss together every line of code
+2. Basically, just learn more about swift syntax.
 
 ## Video Walkthrough 
 
@@ -40,7 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Like before, I mainly had problems understanding syntax etc, but I also had problems managing time. Now that I know what to expect, I would better my time from next week and work on the optionals as well.
 
 ## License
 
